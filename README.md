@@ -10,7 +10,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
-[YouTube Link]()
+[Vibrating Motor](https://youtu.be/ZFLcpA8GNGM)
 
 ## Part B. Actuating Servo motors
 
@@ -40,11 +40,19 @@ The for loop parameters specify the angle at which the motor rotates. The delay 
 
 **Include a photo/movie of your raw circuit in action.**
 
+[Potentiometer Controlling Servo](https://youtu.be/En7ynrroetY)
+[Code]()
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+[Proto Puppet](https://youtu.be/NBUOnwOXA-g)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
- 
+
+For context, I used an Ambient Sensor attached to my trash can to register whenever I shot and scored something in the trash. Unfortunately it didn't work with paper so I used my socks.
+
+[Proto Puppet Trash Celebration](https://youtu.be/gr6WET1LoS0) 
