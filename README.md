@@ -41,7 +41,8 @@ The for loop parameters specify the angle at which the motor rotates. The delay 
 **Include a photo/movie of your raw circuit in action.**
 
 [Potentiometer Controlling Servo](https://youtu.be/En7ynrroetY)
-[Code]()
+
+[Code](https://github.com/bhwan1118/IDD-Fa18-Lab4/blob/master/PotentioServo.ino)
 
 ## Part D. Paper puppet
 
@@ -56,3 +57,5 @@ The for loop parameters specify the angle at which the motor rotates. The delay 
 For context, I used an Ambient Sensor attached to my trash can to register whenever I shot and scored something in the trash. Unfortunately it didn't work with paper so I used my socks.
 
 [Proto Puppet Trash Celebration](https://youtu.be/gr6WET1LoS0) 
+
+[Code](https://github.com/bhwan1118/IDD-Fa18-Lab4/blob/master/ambient_servo.ino)
